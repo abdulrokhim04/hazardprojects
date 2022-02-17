@@ -1,5 +1,5 @@
 {
-  "name": "AlphabotMD",
+  "name": "HAZARD PROJECTS",
   "version": "1.0.5",
   "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
@@ -20,7 +20,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "HAZARD PROJECTS",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
